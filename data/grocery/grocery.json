@@ -9,7 +9,7 @@
     "shipping": "Ships in 3 Days",
     "status": "In Stock",
     "description": "Sweet baked snack biscuits made with wheat flour and chocolate cream. Commonly used with tea or milk and loved by all age groups.",
-    "image": "/grocery-images/Biscuits-Cookies.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154434/Biscuits-Cookies_picxo4.webp"
   },
   {
     "name": "Bread",
@@ -21,7 +21,7 @@
     "shipping": "Ships in 1 Day",
     "status": "In Stock",
     "description": "Soft sliced bread made from refined wheat flour. Used for breakfast, sandwiches, and toast.",
-    "image": "/grocery-images/Bread.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154434/Bread_pt6oak.webp"
   },
   {
     "name": "Butter",
@@ -33,7 +33,7 @@
     "shipping": "Ships in 4 Days",
     "status": "Out of Stock",
     "description": "Creamy dairy butter made from milk fat. Used for cooking, baking, and spreading on bread.",
-    "image": "/grocery-images/Butter.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154434/Butter_wiz3jz.webp"
   },
   {
     "name": "Cheese",
@@ -45,7 +45,7 @@
     "shipping": "Ships in 2 Days",
     "status": "In Stock",
     "description": "Processed cheese made from milk, used in sandwiches, burgers, and cooking recipes.",
-    "image": "/grocery-images/Cheese.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154434/Cheese_xsinh4.webp"
   },
   {
     "name": "Checkpass",
@@ -57,7 +57,7 @@
     "shipping": "Ships in 5 Days",
     "status": "Out of Stock",
     "description": "A packaged grocery item used in daily kitchen needs. Stored in sealed packing for longer shelf life.",
-    "image": "/grocery-images/Chickpeas.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154434/Chickpeas_jlwcup.webp"
   },
   {
     "name": "Coffee",
@@ -69,7 +69,7 @@
     "shipping": "Ships in 3 Days",
     "status": "In Stock",
     "description": "Instant coffee powder made from roasted coffee beans. Used to make hot and cold coffee drinks.",
-    "image": "/grocery-images/Coffee.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154435/Coffee_ohirgn.webp"
   },
   {
     "name": "Cooking Oil",
@@ -81,7 +81,7 @@
     "shipping": "Ships in 4 Days",
     "status": "In Stock",
     "description": "Refined cooking oil used for frying and daily cooking. Made from vegetable sources.",
-    "image": "/grocery-images/Cooking-Oil.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154435/Cooking-Oil_e5g99l.webp"
   },
   {
     "name": "Eggs",
@@ -93,7 +93,7 @@
     "shipping": "Ships in 1 Day",
     "status": "In Stock",
     "description": "Fresh chicken eggs rich in protein. Used for breakfast, baking, and cooking meals.",
-    "image": "/grocery-images/Eggs.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154435/Eggs_iu0lxx.webp"
   },
   {
     "name": "Ketchup",
@@ -105,7 +105,7 @@
     "shipping": "Ships in 2 Days",
     "status": "In Stock",
     "description": "Tomato ketchup made from ripe tomatoes. Used as a sauce with snacks and fast food.",
-    "image": "/grocery-images/Ketchup.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154437/Ketchup_rpyq4d.webp"
   },
   {
     "name": "Lentils",
@@ -117,19 +117,19 @@
     "shipping": "Ships in 5 Days",
     "status": "Out of Stock",
     "description": "Dried lentils rich in protein and fiber. Used to prepare traditional lentil dishes.",
-    "image": "/grocery-images/Lentils.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154438/Lentils_frjwnk.webp"
   },
   {
     "name": "Milk",
     "price": "3",
     "rating": 4.7,
     "category": "Dairy",
-    "brand": "Olper’s",
+    "brand": "Olper's",
     "warranty": "No Warranty",
     "shipping": "Ships in 1 Day",
     "status": "In Stock",
     "description": "Packaged fresh milk used for drinking, tea, coffee, and cooking purposes.",
-    "image": "/grocery-images/Milk.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154438/Milk_mwj0r9.webp"
   },
   {
     "name": "Noodles",
@@ -141,7 +141,7 @@
     "shipping": "Ships in 3 Days",
     "status": "In Stock",
     "description": "Instant noodles made from wheat flour. Easy to cook and commonly used as a quick meal.",
-    "image": "/grocery-images/Noodles.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154438/Noodles_swvvn2.webp"
   },
   {
     "name": "Pasta",
@@ -153,7 +153,7 @@
     "shipping": "Ships in 4 Days",
     "status": "In Stock",
     "description": "Dry pasta made from durum wheat. Used to prepare various Italian-style dishes.",
-    "image": "/grocery-images/Pasta.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154438/Pasta_twxjnr.webp"
   },
   {
     "name": "Rice",
@@ -165,7 +165,7 @@
     "shipping": "Ships in 5 Days",
     "status": "Out of Stock",
     "description": "Long grain rice used as a staple food. Suitable for daily meals and special dishes.",
-    "image": "/grocery-images/Rice.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154439/Rice_ysyepj.webp"
   },
   {
     "name": "Salt",
@@ -177,7 +177,7 @@
     "shipping": "Ships in 2 Days",
     "status": "In Stock",
     "description": "Edible salt used for seasoning food. Essential ingredient in everyday cooking.",
-    "image": "/grocery-images/Salt.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154439/Salt_amgfmb.webp"
   },
   {
     "name": "Spice Mix",
@@ -189,7 +189,7 @@
     "shipping": "Ships in 3 Days",
     "status": "In Stock",
     "description": "Ready-made spice mix containing blended spices. Used to enhance flavor in cooking.",
-    "image": "/grocery-images/Spice-Mix.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154439/Spice-Mix_uulqta.webp"
   },
   {
     "name": "Sugar",
@@ -201,7 +201,7 @@
     "shipping": "Ships in 4 Days",
     "status": "In Stock",
     "description": "Refined sugar used for sweetening beverages and cooking.",
-    "image": "/grocery-images/Sugar.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154440/Sugar_arby4i.webp"
   },
   {
     "name": "Tea",
@@ -213,7 +213,7 @@
     "shipping": "Ships in 5 Days",
     "status": "Out of Stock",
     "description": "Tea leaves used for making hot or cold tea drinks.",
-    "image": "/grocery-images/Tea.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154441/Tea_y1o5od.webp"
   },
   {
     "name": "Wheat Flour",
@@ -225,7 +225,7 @@
     "shipping": "Ships in 3 Days",
     "status": "In Stock",
     "description": "Finely ground wheat flour used for baking, cooking, and making bread or roti.",
-    "image": "/grocery-images/Wheat-Flour.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154441/Wheat-Flour_v6pz3i.webp"
   },
   {
     "name": "Yogurt",
@@ -237,6 +237,6 @@
     "shipping": "Ships in 2 Days",
     "status": "Out of Stock",
     "description": "Fresh yogurt made from milk, used for breakfast, smoothies, or cooking.",
-    "image": "/grocery-images/Yogurt.webp"
+    "image": "https://res.cloudinary.com/deqfxjaz7/image/upload/v1775154441/Yogurt_xuwgcd.webp"
   }
 ]
