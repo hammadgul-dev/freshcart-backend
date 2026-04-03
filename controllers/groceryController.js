@@ -1,4 +1,4 @@
-import groceryData from "../data/grocery/grocery.json" assert { type: "json" }
+import groceryData from "../data/grocery/grocery.json" with { type: "json" }
 import groceryModel from "../models/groceryModel.js"
 
 async function groceryController(req, resp) {
