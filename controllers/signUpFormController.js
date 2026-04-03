@@ -33,7 +33,7 @@ async function handleSignupForm(req, resp) {
         resp.cookie("token", token, {
             httpOnly: true,
             secure: true,
-            sameSite: "strict",
+            sameSite: "none",
             maxAge: 24 * 60 * 60 * 1000,
         })
 
