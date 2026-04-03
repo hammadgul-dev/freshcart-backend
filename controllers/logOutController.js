@@ -11,8 +11,6 @@ async function handleLogout(req, resp) {
         await contactFormModel.deleteOne({ userId })
         await favItemModel.deleteOne({ userId })
         await signupModel.deleteOne({ _id: userId })
-        resp.clearCookie("token")
-
         return resp.status(200).json({ message: "LogOut Successfully" })
     }
     catch (e) {

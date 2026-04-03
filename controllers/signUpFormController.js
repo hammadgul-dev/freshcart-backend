@@ -30,15 +30,13 @@ async function handleSignupForm(req, resp) {
             { expiresIn: "1d" }
         )
 
-        resp.cookie("token", token, {
-            httpOnly: true,
-            secure: true,
-            sameSite: "none",
-            path: "/",
-            maxAge: 24 * 60 * 60 * 1000,
+        resp.status(201).json({
+            message: "Signup Successfully",
+            token: token,
+            newUser: { firstName, lastName },
+            userId: newUser._id
         })
 
-        resp.status(201).json({ message: "Signup Successfully", newUser: { firstName, lastName }, userId: newUser._id })
     }
     catch (e) {
         resp.status(500).json({ message: "Error Occur During Signup" })

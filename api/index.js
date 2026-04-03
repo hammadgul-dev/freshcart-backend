@@ -2,7 +2,6 @@ import express from "express"
 import dotenv from "dotenv"
 import connectDB from "../config/db.js"
 import cors from "cors"
-import cookieParser from "cookie-parser"
 import signupRoutes from "../routes/signUpFormRoutes.js"
 import groceryRoutes from "../routes/groceryRoutes.js"
 import productRoutes from "../routes/productRoutes.js"
@@ -18,7 +17,6 @@ const app = express()
 
 // Middleware
 app.use(express.json())
-app.use(cookieParser())
 app.use(cors({
     origin: process.env.FRONTEND_URL,
     credentials: true,
