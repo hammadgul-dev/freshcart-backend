@@ -34,6 +34,7 @@ async function handleSignupForm(req, resp) {
             httpOnly: true,
             secure: true,
             sameSite: "none",
+            path: "/",
             maxAge: 24 * 60 * 60 * 1000,
         })
 
