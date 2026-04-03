@@ -1,4 +1,7 @@
-import groceryData from "../data/grocery/grocery.json" with { type: "json" }
+import { createRequire } from "module"
+const require = createRequire(import.meta.url)
+const groceryData = require("../data/grocery/grocery.json")
+
 import groceryModel from "../models/groceryModel.js"
 
 async function groceryController(req, resp) {
